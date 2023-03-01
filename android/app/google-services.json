@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513890990999",
+    "project_id": "satu-salingbantu",
+    "storage_bucket": "satu-salingbantu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513890990999:android:160f1dd5500faafe9b22d2",
+        "android_client_info": {
+          "package_name": "id.satu.salingbantu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513890990999-0lt8jhg191t2esd5n9p18ffte3m83sgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJsODpajfOfMp8y6IGEaYIeuHBSG2Gi4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513890990999-0lt8jhg191t2esd5n9p18ffte3m83sgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
